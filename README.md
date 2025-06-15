@@ -10,7 +10,7 @@ This project focuses on **music source separation**, i.e., extracting **drums, b
 4. **Deep Learning Enhanced U-Net Model (Stage 4)**  
 5. **Streamlit Web App for real-time inference (Stage 5)**  
 
-Dataset used: **MUSDB18 (for training and evaluation)** and any custom `.wav` file for the Streamlit app.
+Dataset used: **[MUSDB18](https://sigsep.github.io/datasets/musdb.html) (for training and evaluation)** and any custom `.wav` file for the Streamlit app.
 
 ---
 
